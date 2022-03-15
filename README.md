@@ -11,7 +11,7 @@
 **Setting up:**
 1. Open PowerShell (or teminal) in any folder you want. Enter:
     - `git config --global user.email YOUR EMAIL `
-    - `git clone https://github.com/Gunthersuper/steam-idle-bot`
+    - `git clone https://github.com/Gunthersuper/simple-steam-idler-heroku`
 2. A new folder `simple-steam-idler-heroku` will appeared in this directory. Go to this folder.
 3. Open `index.js`. Fill the needed information: 
    ```
